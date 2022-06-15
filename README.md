@@ -1,6 +1,5 @@
 # Traefik v2 
 
-###### guide by examples
 
 ![logo](https://i.imgur.com/yHvP7zM.png)
 
